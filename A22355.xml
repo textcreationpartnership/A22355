@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King a proclamation prohibiting the importation of allome, and the buying and spending thereof in any His Maiesties dominions.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1625</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22355</idno>
+            <idno type="STC">STC 8768</idno>
+            <idno type="STC">ESTC S122660</idno>
+            <idno type="EEBO-CITATION">33150369</idno>
+            <idno type="OCLC">ocm 33150369</idno>
+            <idno type="VID">28571</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22355)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28571)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1876:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King a proclamation prohibiting the importation of allome, and the buying and spending thereof in any His Maiesties dominions.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>3 leaves.   </extent>
+               <publicationStmt>
+                  <publisher>By Bonham Norton and Iohn Bill, Printers  to the Kings most Excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno Dom. M.DC.XXV [1625]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Sheet 1, line 8 of text begins "Allome".</note>
+                  <note>Contains illustrated initial, possibly of the story of Cain and Abel.</note>
+                  <note>"Giuen at Our Court at White-Hall the thirteenth day of April, in the first yeere of Our Reigne of Great Britaine, France and Ireland."</note>
+                  <note>Reproduction of original in: Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Alum industry --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:28571:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 52 -->
+            <head>
+               <figure>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+                  <figDesc>royal blazon of the House of Stuart</figDesc>
+               </figure>
+            </head>
+            <head>
+               <g ref="char:leaf">❧</g> By the King. ¶ A Proclamation prohibiting the Importation of Allome, and the buying and ſpending thereof in any His MAIESTIES Dominions.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas that great and commendable Worke of making</hi> Al<g ref="char:EOLhyphen"/>lome, of the Natiue Mynes of this Our Kingdome, not many yeeres ſince diſcouered within Our County of <hi>Yorke,</hi> is by the diſ<g ref="char:EOLhyphen"/>burſements and expence of ſundry great ſummes of money, made by Our moſt deare and Royall Father, King <hi>Iames,</hi> of bleſſed me<g ref="char:EOLhyphen"/>mory, brought to ſuch perfection, as there is now no doubt or que<g ref="char:EOLhyphen"/>ſtion, but ſufficient quantities of good, well roached, &amp; merchantable Allome may be made, aſwell for ſupply of Our owne Domini<g ref="char:EOLhyphen"/>ons, of ſo neceſſary and vſefull a Commoditie, as alſo for forreine vent and ſale of great quantities thereof into other neighbour Kingdomes; which being a Worke of ſo great ho<g ref="char:EOLhyphen"/>nour to this Kingdome, and of ſuch vſe and conſequence, for the publique ſeruice, and good of this Common-wealth, wherby many families of Our louing Subiects are kept and main<g ref="char:EOLhyphen"/>tayned in worke, much treaſure ſaued within the Land, which was heretofore yeerely expor<g ref="char:EOLhyphen"/>ted, for furniſhing of Allome from forreine parts, and ſome increaſe alſo brought to Our annuall Reuenues, towards the ſayd exceſſiue charge and expence, which Our ſayd deare Father was put vnto about it: Wee haue thought fit (with the aduice of Our Priuy Coun<g ref="char:EOLhyphen"/>cell) by all honourable and lawfull meanes, to vphold and maintaine the ſame; which can by no meanes be done, vnleſſe the Importation of Allome from forreine parts, and the vſe thereof here, when it ſhall bee brought in, bee carefully reſtrained, and the many ſleights, frauds, and deuices, heretofore vſed therein, be met withall and preuented.</p>
+            <p>Wee therefore doe by this Our Proclamation ſtraitly charge and command, That no forreine Allome be hereafter imported, or brought into, or bought, ſold, vttered, or ſpent with<g ref="char:EOLhyphen"/>in this Our Realme, or any other Our Dominions, and that no Engliſh Allome, that hath been, or ſhall be once exported, or ſhipped in any Boate or Veſſel to be tranſported, ſhal at any
+<pb facs="tcp:28571:2"/>
+               <!-- PDF PAGE 53 -->time after be bought, ſold, vttered or ſpent within this Our Realme of <hi>England:</hi> And that no perſon or perſons whatſoeuer, either Our owne naturall borne Subiects, or Denizens, or Strangers, Merchants, Mariners, Artificers, or others, nor any of them, doe attempt hereafter to import, buy, ſell, or vent, or cauſe to be imported, bought, ſold, or vented any ſuch forreine or Engliſh Allome ſo prohibited, vpon paine of forfeiture of all ſuch Allome ſo im<g ref="char:EOLhyphen"/>ported, bought, ſolde, or vented, to bee ſeized to Our vſe, and vpon ſuch further penalties and puniſhments, as Wee, or Our Priuie Councell, or Our Treaſurer of <hi>England,</hi> for the time being, ſhall thinke fit to inflict vpon euery ſuch offender.</p>
+            <p>And for the better finding out, and diſcouery of the ſayd offenders, Wee doe hereby re<g ref="char:EOLhyphen"/>quire and command, That Our ſayd Treaſurer, Chancellour, and Barons of the Exche<g ref="char:EOLhyphen"/>quer for the time being, ſhall, and doe award, ſuch, and ſo many Commiſſions, of ſuch and the like tenour and effect, as in the time of Our ſayd deare Father, were accuſtomed, or might bee awarded, or otherwiſe, as they ſhall thinke fit, for examining and finding out of all offences and offenders againſt this Our Proclamation; To the end, That aſwell the Im<g ref="char:EOLhyphen"/>porters of al ſuch Allome prohibited, as the Buyers, Sellers, Spenders, and Receiuers ther<g ref="char:EOLhyphen"/>of, may receiue condigne puniſhment for the ſame.</p>
+            <p>And whereas Wee vnderſtand, That diuers great quantities of ſuch prohibited Allome haue vſed to bee imported into this Realme, vnder the name or names of ſundry poore Ma<g ref="char:EOLhyphen"/>riners, and others, men of little or no value; Wee will and command, That not onely the ſaid Mariners, or others, who ſhall ſo import, or colour the Importation of ſuch prohibited Al<g ref="char:EOLhyphen"/>lome, ſhall bee puniſhed, as their miſdemeanours therein ſhall deſerue; But alſo, That the Shippe, Boate, or Veſſell wherein any ſuch Allome ſhall bee imported, or out of which any ſuch Allome ſhall be vnſhipped, or layd on land, contrary to this Our Proclamation, ſhall bee arreſted and ſtayed by the officers of euery Port, reſpectiuely, vntill the Maſter, or Owner thereof, ſhall cauſe the full value of the Allome ſo imported, vnſhipped, or layd on land, to bee duely payd, and anſwered to the hands of Our Agent, or Agents for Our ſayd Allome Workes for the time being, to Our vſe, or to ſuch others, as they ſhall appoint in that behalfe.</p>
+            <p>And Wee doe further ſtraitly charge and command, All and ſinguler ſuch perſon or per<g ref="char:EOLhyphen"/>ſons, as ſhall hereafter ſeize any Allome, by this Proclamation prohibited to be imported, bought, ſold, vſed or diſpoſed of, That they doe forthwith deliuer the ſame to Our ſayd A<g ref="char:EOLhyphen"/>gent, or Agents in <hi>London:</hi> And for the better encouragement of ſuch as ſhall finde out, and diſcouer the offenders and offences, to bee committed againſt the tenour and true meaning of this Our Proclamation, Our will and pleaſure is, That Our Agent or Agents, ſhall allow to him or them, who ſhal diſcouer and ſeize any ſuch prohibited Allome, the full ſumme of nine ſhillings for euery hundred weight, &amp; after the rate for euery leſſer or greater qua<g ref="char:cmbAbbrStroke">̄</g>tity, that ſhal bee ſo ſeized and brought vnto the ſaid Agents, or one of them; And for all ſuch Allome as ſhal bee ſhifted away, and not ſeized, for which offence the full value thereof is to bee forfeited to Our vſe, and payd to the hands of Our ſayd Agent or Agents, as aforeſayd, The one moity thereof ſhall bee to the diſcouerer, who ſhall proſecute and recouer the ſame, and the other moity to remaine to Our ſayd Agent or Agents, to bee diſpoſed of, as in their Letters Pa<g ref="char:EOLhyphen"/>tents of Agencie is ordered and appointed.</p>
+            <p>
+               <pb facs="tcp:28571:3"/>
+               <!-- PDF PAGE 54 -->
+And Wee doe further charge and command, All and ſinguler the Officers of Our Cu<g ref="char:EOLhyphen"/>ſtomes within all and euery the Ports and Hauens of Our ſaid Dominions, and the Creekes and members thereof, That they, and euery of them, doe not onely forbeare to take any En<g ref="char:EOLhyphen"/>try or Entries, or giue any Bill or Warrant for vnlading or landing of any Allome prohibi<g ref="char:EOLhyphen"/>ted as aforeſayd, but doe alſo cauſe Seizure and ſtay to bee made thereof to Our vſe, vpon paine of forfeiture of his or their Offices reſpectiuely, and vndergoing Our heauy diſplea<g ref="char:EOLhyphen"/>ſure, and ſuch other puniſhments, as their neglects and contempts herein ſhall be found to demerit.</p>
+            <p>And for the better execution of the premiſſes, Wee doe ſtraitly charge and command all Maiors, Shiriffes, Iuſtices of Peace, Conſtables, headboroughs, Tything-men, and all o<g ref="char:EOLhyphen"/>ther Our Officers and Miniſters, aſwell of Our Admiralty, as otherwiſe, and all other Our louing Subiects, to whom it ſhall or may appertaine, That they, and euery of them, at all times hereafter, and from time to time, bee ayding and aſſiſting to Our ſayd Agent and Agents, and their deputies, and to ſuch Our Commiſſioners, as ſhall be from time to time appointed for, or about this Our Seruice; And alſo to be, from time to time, likewiſe ayding &amp; aſſiſting to all Our Cuſtomers, Searchers, Waiters, and all other perſon or perſons thereunto deputed by Our ſaid Agent or Agents, in, or for the ſeizing, ſearching for, or carying away of all ſuch prohibited Allome, imported or landed, or hereafter to bee imported, landed, bought, ſold, vented, or diſpoſed, contrary to this Our Royall prohibition and commande<g ref="char:EOLhyphen"/>ment: And if any perſon or perſons ſhall bee found openly to oppoſe, or priuately to ani<g ref="char:EOLhyphen"/>mate, or encourage others to contradict or withſtand the due execution of this Our Seruice, That then Our ſayd Treaſurer of <hi>England,</hi> or Chancellour of Our Exchequer, for the time being, ſhall cauſe ſuch perſon and perſons to bee ſent for by a Meſſenger, and brought before Our Priuy Councell, or themſelues, or the one of them, to receiue ſuch condigne puniſhment therein, as ſhall be thought meete to be inflicted vpon him or them, for his or their wilfull con<g ref="char:EOLhyphen"/>tempt and diſobedience in this behalfe.</p>
+            <closer>
+               <dateline>Giuen at Our Court at White-Hall, <date>the thirteenth day of April, in the firſt yeere of Our Reigne of Great Britaine, France and Ireland.</date>
+               </dateline>
+               <lb/>
+God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Bonham Norton, and Iohn Bill, Printers to the Kings moſt Excellent Maieftie. ANNO DOM. M.DC.XXV.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
